@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">CinemaLine</string>
+    <string name="splash_name">CinemaLine</string>
+    <string name="description">Time to watch movies.</string>
+    <string name="country">Страна</string>
+    <string name="age">Возвраст</string>
+    <string name="actors">Aктёры</string>
+    <string name="rejissers">Режиссёры</string>
+    <string name="premier">Дата выхода</string>
+    <string name="votes_count">Проголосовали</string>
+    <string name="rating_film">Оценки фильма: </string>
+    <string name="kinoafish_name">CinemaLine</string>
+    <string name="theatre_adress">Адрес: </string>
+    <string name="thatre_phone">Телефон: </string>
+    <string name="action_seans">Сеансы</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_cinema_list">CinemaListActivity</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_movie_tabs">MovieTabsActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_movie_list_main">MovieListMainActivity</string>
+    <string name="title_activity_view_tab">ViewTabActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+</resources>
